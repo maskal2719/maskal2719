@@ -7,12 +7,7 @@
   <a href="https://t.me/reus_genius">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/s.y.moskalenko/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://vk.com/id79386490">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=maskal2719&style=flat-square&color=blue" alt=""/>
 <h1>
